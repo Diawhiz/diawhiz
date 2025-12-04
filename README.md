@@ -31,7 +31,7 @@ I'm a passionate self-taught software developer with over 2 years of experience 
 ### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diawhiz&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diawhiz&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=diawhiz&theme=dark" alt="GitHub Streak" />
 </div>
 
 ### 🌱 Currently Learning
