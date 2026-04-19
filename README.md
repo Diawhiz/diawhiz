@@ -1,15 +1,16 @@
 <div align="center">
   <h1>Hi there, I'm Ariyo Israel Gbemisola 👋</h1>
-  <h3>Self-Taught Software Developer | Full Stack Enthusiast</h3>
+  <h3>Self-Taught Software Developer | Enthusiast | Curious Mind</h3>
 </div>
 
 ### 🚀 About Me
 I'm a passionate self-taught software developer with over 2 years of experience crafting responsive web applications and automation solutions. I specialize in building scalable, user-focused solutions that drive business growth, with a track record of delivering 10+ successful client projects.
+Addition: I am a very curious mind and like to beyond the norm to make a new idea happen. Check my open source project ChaosDB for prove
 
 ### 💻 Tech Stack
-- **Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+- **Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-7952B3?style=flat&logo=tailwind&logoColor=white)
 - **Backend:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-- **Database:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- **Database:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 - **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### 🎯 Key Projects
@@ -36,8 +37,9 @@ I'm a passionate self-taught software developer with over 2 years of experience 
 
 ### 🌱 Currently Learning
 - React.js
-- Node.js
-- AWS Cloud Services
+- ReactNative
+- Google Cloud Platform
+- Assembly
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/diawhiz)
