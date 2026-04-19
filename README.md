@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 I'm a passionate self-taught software developer with over 2 years of experience crafting responsive web applications and automation solutions. I specialize in building scalable, user-focused solutions that drive business growth, with a track record of delivering 10+ successful client projects.
-Addition: I am a very curious mind and like to beyond the norm to make a new idea happen. Check my open source project ChaosDB for prove
+**Addition**: I am a very curious mind and like to go beyond the norm to make a new ideas happen which i believed will bring solution to current problem faced in tech. Check my open source project ChaosDB for prove
 
 ### 💻 Tech Stack
 - **Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-7952B3?style=flat&logo=tailwind&logoColor=white)
