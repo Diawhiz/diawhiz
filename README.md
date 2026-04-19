@@ -8,7 +8,7 @@ I'm a passionate self-taught software developer with over 2 years of experience 
 **Addition**: I am a very curious mind and like to go beyond the norm to make a new ideas happen which i believed will bring solution to current problem faced in tech. Check my open source project ChaosDB for prove
 
 ### 💻 Tech Stack
-- **Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-7952B3?style=flat&logo=tailwind&logoColor=white)
+- **Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwindcss-7952B3?style=flat&logo=tailwindcss&logoColor=white)
 - **Backend:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 - **Database:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 - **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
