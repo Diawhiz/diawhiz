@@ -79,13 +79,28 @@ I believe that great software lives at the intersection of elegant code and huma
 ---
 
 ### 📈 Quick Stats
-╔═══════════════════════════════════════════╗
-║  Experience: 2+ years                     ║
-║  Projects: 10+ completed                  ║
-║  Clients: 5+ satisfied                    ║
-║  Open Source: ChaosDB (Building)          ║
-║  Location: Osogbo, Nigeria                ║
-╚═══════════════════════════════════════════╝
+<table align="center">
+  <tr>
+    <td>📅 Experience</td>
+    <td>2+ years</td>
+  </tr>
+  <tr>
+    <td>📁 Projects</td>
+    <td>10+ completed</td>
+  </tr>
+  <tr>
+    <td>👥 Clients</td>
+    <td>5+ satisfied</td>
+  </tr>
+  <tr>
+    <td>🚀 Open Source</td>
+    <td>ChaosDB (Building)</td>
+  </tr>
+  <tr>
+    <td>📍 Location</td>
+    <td>Osogbo, Nigeria</td>
+  </tr>
+</table>
 
 ---
 
