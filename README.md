@@ -7,9 +7,9 @@
 
 ### 🚀 About Me
 
-I'm a passionate, **self-taught software developer** with over **three years of experience** building responsive web applications and automation solutions. I specialize in creating scalable, user-focused products that drive real business growth — and I have a proven track record of delivering **15+ successful client projects** to over **10+ satisfied clients**.
+I'm a passionate, **self-taught software developer** with over **three years of experience** building responsive web applications and automation solutions. I specialize in creating scalable, user-focused products that drive real business growth — and I have a proven track record of delivering **10+ successful client projects** to over **5+ satisfied clients**.
 
-I'm deeply curious by nature and enjoy pushing beyond conventional approaches to turn new ideas into reality, especially when they address real problems in tech. For a clear example of this mindset in action, check out my open-source project, **ChaosDB** — an exploration of chaos theory for database architecture built with Assembly and C++.
+I'm deeply curious by nature and enjoy pushing beyond conventional approaches to turn new ideas into reality, especially when they address real problems in tech. For a clear example of this mindset in action, check out my open-source project, **ChaosDB** — an exploration of chaos theory for database architecture built with Assembly.
 
 📍 **Based in Osogbo, Nigeria** (Opposite Pathway Medical Centre)
 
@@ -86,8 +86,6 @@ I believe that great software lives at the intersection of elegant code and huma
 │ Open Source: ChaosDB (Building) │
 │ Location: Osogbo, Nigeria │
 └─────────────────────────────────────────────┘
-text
-
 
 ---
 
