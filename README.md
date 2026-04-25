@@ -82,7 +82,7 @@ I believe that great software lives at the intersection of elegant code and huma
 <table align="center">
   <tr>
     <td>📅 Experience</td>
-    <td>2+ years</td>
+    <td>3+ years</td>
   </tr>
   <tr>
     <td>📁 Projects</td>
