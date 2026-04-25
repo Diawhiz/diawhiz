@@ -4,8 +4,9 @@
 </div>
 
 ### 🚀 About Me
-I'm a passionate self-taught software developer with over 2 years of experience crafting responsive web applications and automation solutions. I specialize in building scalable, user-focused solutions that drive business growth, with a track record of delivering 10+ successful client projects.
-**Addition**: I am a very curious mind and like to go beyond the norm to make a new ideas happen which i believed will bring solution to current problem faced in tech. Check my open source project ChaosDB for prove
+I'm a passionate, self-taught software developer with over two years of experience building responsive web applications and automation solutions. I specialize in creating scalable, user-focused products that drive real business growth — and I have a proven track record of delivering 10+ successful client projects.
+
+I’m deeply curious by nature and enjoy pushing beyond conventional approaches to turn new ideas into reality, especially when they address real problems in tech. For a clear example of this mindset in action, check out my open-source project, ChaosDB.
 
 ### 💻 Tech Stack
 - **Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwindcss-7952B3?style=flat&logo=tailwindcss&logoColor=white)
@@ -24,11 +25,6 @@ I'm a passionate self-taught software developer with over 2 years of experience 
    - Tech: Python, JavaScript
    - 75% reduction in processing time
 
-3. **[Portfolio Website](https://github.com/diawhiz/diawhiz)**
-   - Mobile-optimized personal portfolio
-   - Tech: HTML5, CSS3, JavaScript
-   - 95+ PageSpeed score
-
 ### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diawhiz&show_icons=true&theme=dark" alt="GitHub Stats" />
@@ -44,9 +40,10 @@ I'm a passionate self-taught software developer with over 2 years of experience 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/diawhiz)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/diawhiz)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:igbemisola53@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-181717?style=flat&logo=twitter)](https://twitter.com/diawhiz)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ariyodevops@gmail.com)
 
 ---
 <div align="center">
-  <b>Open for collaboration and new opportunities!</b>
+  <b>Open for innovation and collaboration</b>
 </div>
