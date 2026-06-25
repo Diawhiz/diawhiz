@@ -36,7 +36,7 @@ I'm deeply curious by nature and enjoy pushing beyond conventional approaches to
 | **E-Commerce Platform** | Full-stack e-commerce solution with secure payment integration and admin dashboard. | Django, React, PostgreSQL, TailwindCSS |
 | **Business Automation Suite** | Automated data processing and report generation system for local businesses. | Python, JavaScript, Node.js |
 | **Mobile Applications** | Cross-platform mobile solutions for e-commerce, logistics, and educational platforms. | React Native, Node.js, MySQL |
-| **Cloud Infrastructure** | Scalable deployment solutions with 99.9% uptime for client applications. | GCP, Heroku, Docker |
+| **Cloud Infrastructure** | Scalable deployment solutions with 99.9% uptime for client applications. | GCP, Heroku, Docker, AWS |
 
 ---
 
