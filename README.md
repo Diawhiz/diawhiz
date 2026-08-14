@@ -5,17 +5,21 @@
 
 ---
 
-### About Me
+<details>
+<summary><h3>About Me</h3></summary>
 
 I'm a passionate, **self-taught software developer** with over **three years of experience** building responsive web applications and automation solutions. I specialize in creating scalable, user-focused products that drive real business growth — and I have a proven track record of delivering **10+ successful client projects** to over **5+ satisfied clients**.
 
 I'm deeply curious by nature and enjoy pushing beyond conventional approaches to turn new ideas into reality, especially when they address real problems in tech. This mindset drives everything I build — from client work to personal projects.
 
-📍 **Based in Osogbo, Nigeria** (Opposite Pathway Medical Centre)
+**Based in Osogbo, Nigeria** (Opposite Pathway Medical Centre)
+
+</details>
 
 ---
 
-### Tech Stack
+<details>
+<summary><h3>Tech Stack</h3></summary>
 
 | Category | Technologies |
 |----------|--------------|
@@ -26,25 +30,33 @@ I'm deeply curious by nature and enjoy pushing beyond conventional approaches to
 | **Currently Learning** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logo=assembly&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat&logo=rust&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code) |
 
+</details>
+
 ---
 
 ### Featured Projects
 
-#### CuriousBright — Academic Research Platform
+<details>
+<summary><strong>CuriousBright — Academic Research Platform</strong></summary>
+
 Real-time research collaboration platform for scholars and co-authors. Features live manuscript sync, multiplayer math whiteboards, and inline peer marginalia for seamless academic collaboration.
 
 - **Tech Stack:** Django, React, PostgreSQL, TailwindCSS
 - **Type:** Full Stack Application
-- **Status:** 🚀 In Development
+- **Status:** In Development
 - **Key Features:** 
   - Live manuscript synchronization
   - Multiplayer math whiteboards
   - Inline peer marginalia for feedback
   - Real-time collaboration
 
+</details>
+
 ---
 
-#### Radiant Cream — E-Commerce Landing Page
+<details>
+<summary><strong>Radiant Cream — E-Commerce Landing Page</strong></summary>
+
 A high-conversion e-commerce landing page for Radiant Stretch Mark Cream. Features flash sale integration and targeted skin-repair product marketing with seamless checkout flow.
 
 - **Tech Stack:** React, Node.js, TailwindCSS
@@ -55,9 +67,13 @@ A high-conversion e-commerce landing page for Radiant Stretch Mark Cream. Featur
   - Responsive design
   - Checkout optimization
 
+</details>
+
 ---
 
-#### Logistics Temporal Solution
+<details>
+<summary><strong>Logistics Temporal Solution</strong></summary>
+
 Logistics management application built to eliminate manual report submissions and streamline inventory management. Automates workflows and provides real-time inventory tracking.
 
 - **Tech Stack:** JavaScript, PostgreSQL, Node.js
@@ -68,9 +84,13 @@ Logistics management application built to eliminate manual report submissions an
   - Real-time tracking
   - Workflow automation
 
+</details>
+
 ---
 
-#### Docsify Core Contribution
+<details>
+<summary><strong>Docsify Core Contribution</strong></summary>
+
 Contributed to Docsify, a magical documentation site generator. Helped enhance the open-source project with bug fixes and feature improvements.
 
 - **Tech Stack:** JavaScript, Vue.js, Documentation
@@ -81,9 +101,12 @@ Contributed to Docsify, a magical documentation site generator. Helped enhance t
   - Plugin support
   - Modern tooling
 
+</details>
+
 ---
 
-### Training Arc Focus
+<details>
+<summary><h3>Training Arc Focus</h3></summary>
 
 My current learning and development focuses on:
 
@@ -93,9 +116,12 @@ My current learning and development focuses on:
 - **Systems Architecture** — Low-level optimization and design patterns
 - **Algorithms** — Advanced problem-solving techniques
 
+</details>
+
 ---
 
-### GitHub Stats
+<details>
+<summary><h3>GitHub Stats</h3></summary>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diawhiz&show_icons=true&theme=dark&hide_border=true&bg_color=0A2540&title_color=FF6B2C&icon_color=FF6B2C" alt="GitHub Stats" width="48%" />
@@ -105,6 +131,8 @@ My current learning and development focuses on:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diawhiz&theme=github-compact&bg_color=0A2540&color=FFFFFF&line=FF6B2C&point=FF6B2C&hide_border=true" alt="Activity Graph" width="95%" />
 </div>
+
+</details>
 
 ---
 
@@ -118,7 +146,8 @@ I believe that great software lives at the intersection of elegant code and huma
 
 ---
 
-### Let's Connect
+<details>
+<summary><h3>Let's Connect</h3></summary>
 
 <div align="center">
   
@@ -130,6 +159,8 @@ I believe that great software lives at the intersection of elegant code and huma
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diawhiz)
   
 </div>
+
+</details>
 
 ---
 
